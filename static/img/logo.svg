@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.5 975.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fbb03b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 200px;
+      }
+
+      .cls-2 {
+        stroke: #f15a24;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-family: Bahnschrift-Bold, Bahnschrift;
+        font-size: 600px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke: #f7931e;
+      }
+
+      .cls-4 {
+        stroke: #c1272d;
+      }
+
+      .cls-5 {
+        stroke: #ed1c24;
+      }
+    </style>
+  </defs>
+  <g id="Lines">
+    <line id="Line_1" data-name="Line 1" class="cls-4" x1="101" y1="375" x2="376" y2="100"/>
+    <line id="Line_2" data-name="Line 2" class="cls-5" x1="375.5" y1="100.5" x2="100.5" y2="875.5"/>
+    <line id="Line_3" data-name="Line 3" class="cls-2" x1="100" y1="875" x2="875" y2="100"/>
+    <line id="Line_4" data-name="Line 4" class="cls-3" x1="875.5" y1="100.5" x2="600.5" y2="875.5"/>
+    <line id="Line_5" data-name="Line 5" class="cls-1" x1="600" y1="875" x2="875" y2="600"/>
+  </g>
+  <g id="Pi_Logo" data-name="Pi Logo">
+    <rect x="237.5" y="237.5" width="500" height="500"/>
+    <text class="cls-6" transform="translate(283.47 638.94)"><tspan x="0" y="0">π</tspan></text>
+  </g>
+</svg>

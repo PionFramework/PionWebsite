@@ -1,0 +1,42 @@
+[*]
+charset = utf-8
+insert_final_newline = true
+end_of_line = lf
+trim_trailing_whitespace = true
+
+[*.{h,hpp,hxx,c,cpp,cxx,cppm,mxx,mpp,ixx}]
+indent_style = space
+indent_size = 4
+
+[*.cmake]
+indent_style = space
+indent_size = 4
+ij_cmake_space_before_if_parentheses = false
+ij_cmake_space_before_while_parentheses = false
+ij_cmake_space_before_method_parentheses = false
+ij_cmake_space_before_for_parentheses = false
+ij_cmake_space_before_method_call_parentheses = false
+
+[*.lua]
+indent_style = space
+indent_size = 4
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+[*.{js,json}]
+indent_style = space
+indent_size = 4
+
+[*.json]
+ij_json_keep_blank_lines_in_code = 3
+resharper_json_keep_blank_lines_in_code = 3
+
+[{*.yaml,yml}]
+indent_style = space
+indent_size = 4
+
+[*.toml]
+indent_style = space
+indent_size = 4
